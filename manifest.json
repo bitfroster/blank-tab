@@ -1,0 +1,14 @@
+{
+  "name": "Blank New Tab Page",
+  "version": "1.0.0",
+  "chrome_url_overrides":
+  {
+    "newtab": "blank_page.html"
+  },
+  "manifest_version": 3,
+  "icons": {
+    "32": "icon32.png",
+    "128": "icon128.png",
+    "512": "icon512.png"
+  }
+}
